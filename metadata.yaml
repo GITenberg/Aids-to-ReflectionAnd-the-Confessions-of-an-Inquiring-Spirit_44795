@@ -1,0 +1,46 @@
+_repo: Aids-to-ReflectionAnd-the-Confessions-of-an-Inquiring-Spirit_44795
+_version: 0.1.0
+contributor:
+  contributor:
+    agent_name: Marsh, James
+    birthdate: 1794
+    deathdate: 1842
+    gutenberg_agent_id: '42909'
+    url: http://www.gutenberg.org/2009/agents/42909
+covers:
+- cover_type: archival
+  image_path: 44795-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Coleridge, Samuel Taylor
+    alias: Coleridge, S. T. (Samuel Taylor)
+    birthdate: 1772
+    deathdate: 1834
+    gutenberg_agent_id: '95'
+    url: http://www.gutenberg.org/2009/agents/95
+    wikipedia: http://en.wikipedia.org/wiki/Samuel_Taylor_Coleridge
+description: v. 1. Aids to reflection -- v. 2. Preliminary essay / by James Marsh.
+  Appendix A, Summary of argument on reason and the understanding. Appendix B, On
+  instinct / by J.H. Green. Appendix c, On rationalism / by Sara Coleridge.
+gutenberg_issued: '2014-01-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44795'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Faith'
+- !lcsh 'Conduct of life'
+- !lcsh 'Religion -- Quotations, maxims, etc.'
+- !lcc 'PR'
+- !lcsh 'Bible -- History'
+- !lcsh 'Aphorisms and apothegms'
+- !lcsh 'Coleridge, Samuel Taylor, 1772-1834 -- Religion'
+- !lcsh 'Bible -- Inspiration'
+tableOfContents: 'Aids to reflection -- Confessions of an inquiring spirit: letters
+  on the inspiration of the scriptures -- Essay on faith -- Notes on the Book of common
+  prayer -- A nightly prayer.'
+title: Aids to Reflection; and, The Confessions of an Inquiring Spirit
+url: http://www.gutenberg.org/ebooks/44795
